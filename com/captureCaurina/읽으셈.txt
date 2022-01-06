@@ -1,0 +1,11 @@
+2011.11.13(금)
+
+caurina 라이브러리를 capture전용으로 리뉴얼한 라이브러리임.
+1)패키지명 변경
+2)Tweener.as 의 updateTime() 를
+
+_currentTime = getTimer(); 에서
+_currentTime = getCaptureTimer(); 로 바꿈
+
+※getCaptureTimer 클래스가 main.fla 와 같은 디렉토리에 있어야 함.
+

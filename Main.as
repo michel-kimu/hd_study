@@ -18,7 +18,7 @@
 			Global.id = Utils.getMyFileName(this).toUpperCase(); //소스하나로 여러개의 앱을 생성..
 	 
 			//trace('Global.id:' + Global.id);
-			Global.ver = 'ver.0.0.2a';
+			Global.ver = 'ver.0.0.4';
 			super();
 		}
 		

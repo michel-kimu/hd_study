@@ -16,10 +16,10 @@
 	<text xml:lang="ja">Japanese App name goes here</text>
 	</name>
 -->
-<application xmlns="http://ns.adobe.com/air/application/26.0">
+<application xmlns="http://ns.adobe.com/air/application/33.1">
   <id>com.scc.homestudy</id>
-  <versionNumber>0.0.3</versionNumber>
-  <versionLabel>0.0.3</versionLabel>
+  <versionNumber>0.0.4</versionNumber>
+  <versionLabel>0.0.4</versionLabel>
   <filename>효돌학습지</filename>
   <description/>
   <name>효돌학습지</name>
